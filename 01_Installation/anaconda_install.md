@@ -22,6 +22,6 @@ For developing in ML, you will extensively use Jupyter Notebook.
 - To run jupyter notebook, go to the folder you have your project and run `jupyter notebook`
 - If the notebook does not open run `conda install -c anaconda jupyter`
 
-![Start screen of Jupyter !](./JupyterNotebook1.png "Start Screen of Jupyter Notebook")
+![Start screen of Jupyter !](https://github.com/jayanthbagare/FebWorkshops/blob/b6db20642458868a02e3128ffa81ce3864c25d00/01_Installation/JupyterNotebook1.png "Start Screen of Jupyter Notebook")
 
-![Coding screen of Jupyter !](./JupyterNotebook2.png "Coding Screen in Jupyter")
+![Coding screen of Jupyter !](01_Installation/JupyterNotebook2.png "Coding Screen in Jupyter")

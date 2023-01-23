@@ -24,4 +24,4 @@ For developing in ML, you will extensively use Jupyter Notebook.
 
 ![Start screen of Jupyter !](https://github.com/jayanthbagare/FebWorkshops/blob/b6db20642458868a02e3128ffa81ce3864c25d00/01_Installation/JupyterNotebook1.png "Start Screen of Jupyter Notebook")
 
-![Coding screen of Jupyter !](01_Installation/JupyterNotebook2.png "Coding Screen in Jupyter")
+![Coding screen of Jupyter !](/01_Installation/JupyterNotebook2.png "Coding Screen in Jupyter")

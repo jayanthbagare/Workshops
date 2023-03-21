@@ -5,13 +5,12 @@ class activations:
         self.arr_data = arr_data
 
     def tanh(self):
-        print(self.arr_data)
         x = self.arr_data
         y = []
         for i in x:
             # y.append(math.tanh(i))
-            top = exp**(2*i) - 1
-            bot = exp**(2*i) + 1
+            top = math.exp(1)**(2*i) - 1
+            bot = math.exp(1)**(2*i) + 1
             y.append(top/bot)
         return(x,y)
 

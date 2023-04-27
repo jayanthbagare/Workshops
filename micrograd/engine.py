@@ -1,4 +1,8 @@
+import math
 import numpy as np
+
+global exp
+exp = math.e
 
 class Value():
     def __init__(self,data,_children=(),_op='',label=''):
@@ -75,6 +79,9 @@ class Value():
             
         out._backward = _backward
         return out
+    
+    def __neg__(self):
+        return self * -1
     
     def backward(self):
         topo = []
